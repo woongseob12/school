@@ -1,0 +1,2 @@
+core id		: 0
+cpu cores	: 1
